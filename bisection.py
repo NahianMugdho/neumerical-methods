@@ -13,7 +13,7 @@ import sys
 
 #Take necessary input
 #For bisection, two input is required to bracket the root
-xl=np.float(input ('Enter 1st initial value: '))   #1st input
+xl=float(input ('Enter 1st initial value: '))   #1st input
 print(xl)
 xu=float(input ('Enter 2nd initial value: '))   #2nd input
 
